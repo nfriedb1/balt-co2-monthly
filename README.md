@@ -1,2 +1,2 @@
-# balt-co2-monthly
-CO2 concentrations in Baltimore, averaged monthly. 
+# Baltimore Monthly Averaged CO_2 Concentrations
+Please see .mp4 file for animated version.
